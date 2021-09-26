@@ -5,10 +5,10 @@
 <a href="https://github.com/ultimareall/Rest-API/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/ultimareall/Rest-API" /> </a>
 </p>
 
-#  Example
+# Example
 • [Click here](https://velgrynd-api.herokuapp.com/)
 
-## Note
+# Note
 - Project ini open source
 - Tidak untuk di perjual belikan
 - ini adalah mentahan rest api sangat sederhana 
